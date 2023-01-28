@@ -3,8 +3,6 @@ layout: post
 title:  "Thinking of LLMs as Employees"
 ---
 
-# Thinking of LLMs as Employees
-
 In trying to understand the impact of LLMs like GPT-3 on the way we work, it can be helpful to compare them directly to human employees on a cost-per-unit-work basis and see how they stack up.  What we’ll see is that the actual work they do is incredibly cheap compared to humans, but because of that, it’s important to look closely at any areas that may still require human effort (task setup, defect handling, etc) as that may turn out to be the limiting cost.
 
 In this post, the focus will be on what I will call “delegated tasks” - discrete, repeatable tasks like write this text, proofread this document, etc.  Note that there is another model for AI in the workplace - “assisted tasks” where the model works directly with the human on the human’s tasks a la CoPilot.  We’ll see that these are related items on a spectrum, but the details of that will have to be another post.
